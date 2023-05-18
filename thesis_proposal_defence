@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-18T22:51:10.871Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="HjCE5dtympyu6_EErbjq" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-18T22:57:54.122Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="z1ZCXMVNbZ9_9FMM8q4j" version="21.3.2" type="github">
   <diagram name="Page-1" id="xzQ8MjuCzj6dMDMJZ6OA">
     <mxGraphModel dx="954" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -302,6 +302,21 @@
         </mxCell>
         <mxCell id="ILxH6DLsmS5kyW96NK2Q-56" value="&lt;font color=&quot;#11053b&quot;&gt;BEV Instance Segmentation&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="215" y="557.5" width="60" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ILxH6DLsmS5kyW96NK2Q-230" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="553" y="40" width="137" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ILxH6DLsmS5kyW96NK2Q-228" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="ILxH6DLsmS5kyW96NK2Q-230">
+          <mxGeometry x="7" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ILxH6DLsmS5kyW96NK2Q-225" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/128x128/apps/daemons.png" vertex="1" parent="ILxH6DLsmS5kyW96NK2Q-230">
+          <mxGeometry x="7" y="6.5" width="67" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="ILxH6DLsmS5kyW96NK2Q-227" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-4/256/traffic-sign-128.png" vertex="1" parent="ILxH6DLsmS5kyW96NK2Q-230">
+          <mxGeometry x="60" y="3" width="74" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="ILxH6DLsmS5kyW96NK2Q-236" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#004d65;strokeWidth=3;curved=1;" edge="1" parent="1" source="ILxH6DLsmS5kyW96NK2Q-99" target="ILxH6DLsmS5kyW96NK2Q-225">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
