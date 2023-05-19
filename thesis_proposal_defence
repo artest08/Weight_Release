@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-19T13:21:07.766Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="1JzpR2ikZc0huk24OinG" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-19T13:23:41.371Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="iUGRV8LF7ZcglN0s8ZAG" version="21.3.2" type="github">
   <diagram name="Page-1" id="xzQ8MjuCzj6dMDMJZ6OA">
     <mxGraphModel dx="954" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="800" math="0" shadow="0">
       <root>
@@ -266,7 +266,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ILxH6DLsmS5kyW96NK2Q-154" value="&lt;font color=&quot;#b51a00&quot;&gt;Centerline Mask Output&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#0050ef;sketch=1;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="ILxH6DLsmS5kyW96NK2Q-154" value="&lt;font color=&quot;#d95000&quot; style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Centerline Mask Output&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#0050ef;sketch=1;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="460" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ILxH6DLsmS5kyW96NK2Q-158" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;strokeWidth=3;curved=1;" edge="1" parent="1" source="ILxH6DLsmS5kyW96NK2Q-51" target="ILxH6DLsmS5kyW96NK2Q-154">
@@ -313,7 +313,7 @@
             <mxPoint x="880" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ILxH6DLsmS5kyW96NK2Q-164" value="&lt;font color=&quot;#b51a00&quot;&gt;Centerline &lt;br&gt;Outputs&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=-1;hachureGap=8;fillStyle=cross-hatch;fillColor=#006600;sketch=1;fontColor=#ff9300;" vertex="1" parent="1">
+        <mxCell id="ILxH6DLsmS5kyW96NK2Q-164" value="&lt;font color=&quot;#d95000&quot; style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Centerline &lt;br&gt;Outputs&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=-1;hachureGap=8;fillStyle=cross-hatch;fillColor=#006600;sketch=1;fontColor=#ff9300;" vertex="1" parent="1">
           <mxGeometry x="820" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ILxH6DLsmS5kyW96NK2Q-170" value="" style="group" vertex="1" connectable="0" parent="1">
