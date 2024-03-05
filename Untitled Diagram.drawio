@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T22:18:28.259Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="h5Ne6_tkX0g7QlWavikY" version="23.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-05T22:19:58.748Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="39g1LhkpNSsNp4Duzdhn" version="23.1.7" type="github">
   <diagram name="Page-1" id="BR88uO2bneSfWu2XzS_m">
     <mxGraphModel dx="1434" dy="1928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
           <mxGeometry x="205" y="450" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="WenqukC4pVPus_8-eNgw-8" value="" style="group;rotation=90;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="130" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="219.38" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WenqukC4pVPus_8-eNgw-9" value="Perspective&lt;br&gt;Backbone" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1a0a53;rotation=90;" vertex="1" parent="WenqukC4pVPus_8-eNgw-8">
           <mxGeometry x="30" y="15" width="60" height="30" as="geometry" />
@@ -59,13 +59,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WenqukC4pVPus_8-eNgw-19" value="Front View Frame" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="90" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WenqukC4pVPus_8-eNgw-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=10;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WenqukC4pVPus_8-eNgw-24" target="WenqukC4pVPus_8-eNgw-100">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WenqukC4pVPus_8-eNgw-24" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="30" width="30" height="80" as="geometry" />
+          <mxGeometry x="260" y="40" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WenqukC4pVPus_8-eNgw-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WenqukC4pVPus_8-eNgw-27" target="WenqukC4pVPus_8-eNgw-100">
           <mxGeometry relative="1" as="geometry" />
@@ -161,7 +161,7 @@
           <mxGeometry x="132.5" y="-107.03" width="130" height="38.12" as="geometry" />
         </mxCell>
         <mxCell id="WenqukC4pVPus_8-eNgw-101" value="Perspective Backbone" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="185" y="220" width="120" height="40" as="geometry" />
+          <mxGeometry x="185" y="229.38" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WenqukC4pVPus_8-eNgw-102" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 0);&quot;&gt;View Transformation and BEV Feature Extraction&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;fillColor=#f0a30a;strokeColor=#BD7000;rounded=0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="112.5" y="455.93" width="130" height="58.13" as="geometry" />
@@ -171,14 +171,6 @@
         </mxCell>
         <mxCell id="WenqukC4pVPus_8-eNgw-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.499;entryY=0.857;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WenqukC4pVPus_8-eNgw-102" target="WenqukC4pVPus_8-eNgw-7">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="WenqukC4pVPus_8-eNgw-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=30;entryDy=50;entryPerimeter=0;" edge="1" parent="1" source="WenqukC4pVPus_8-eNgw-101" target="WenqukC4pVPus_8-eNgw-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="280" y="240" />
-              <mxPoint x="280" y="370" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="WenqukC4pVPus_8-eNgw-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=30;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WenqukC4pVPus_8-eNgw-2" target="WenqukC4pVPus_8-eNgw-102">
           <mxGeometry relative="1" as="geometry">
@@ -215,12 +207,15 @@
           <mxGeometry x="421.88000000000005" y="379.2" width="126.11" height="150" as="geometry" />
         </mxCell>
         <mxCell id="WenqukC4pVPus_8-eNgw-136" value="Perspective Backbone" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="160" y="50" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="60" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WenqukC4pVPus_8-eNgw-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.033;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WenqukC4pVPus_8-eNgw-136" target="WenqukC4pVPus_8-eNgw-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WenqukC4pVPus_8-eNgw-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.705;entryY=1.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WenqukC4pVPus_8-eNgw-88" target="WenqukC4pVPus_8-eNgw-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WenqukC4pVPus_8-eNgw-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=30;entryDy=50;entryPerimeter=0;" edge="1" parent="1" source="WenqukC4pVPus_8-eNgw-101" target="WenqukC4pVPus_8-eNgw-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
