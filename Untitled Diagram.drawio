@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T20:46:54.527Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="vFCI7t7CV24Ssh6havVs" version="23.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-05T21:11:17.420Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="mX5bxJ7SIfayDtWwDeu8" version="23.1.7" type="github">
   <diagram name="Page-1" id="BR88uO2bneSfWu2XzS_m">
     <mxGraphModel dx="1434" dy="1928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="WenqukC4pVPus_8-eNgw-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="170" y="310" width="120" height="80" as="geometry" />
+          <mxGeometry x="150" y="320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WenqukC4pVPus_8-eNgw-2" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="WenqukC4pVPus_8-eNgw-1">
           <mxGeometry width="30" height="80" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WenqukC4pVPus_8-eNgw-7" value="BEV Features" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="205" y="430" width="110" height="70" as="geometry" />
+          <mxGeometry x="205" y="450" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="WenqukC4pVPus_8-eNgw-8" value="" style="group;rotation=90;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="130" y="210" width="120" height="60" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WenqukC4pVPus_8-eNgw-17" value="Centerline Queries" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="60" y="625.95" width="145" height="20" as="geometry" />
+          <mxGeometry x="60" y="658.1500000000001" width="145" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WenqukC4pVPus_8-eNgw-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WenqukC4pVPus_8-eNgw-19" target="WenqukC4pVPus_8-eNgw-21">
           <mxGeometry relative="1" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry x="90" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WenqukC4pVPus_8-eNgw-20" value="" style="group;rotation=90;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="175" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WenqukC4pVPus_8-eNgw-21" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;rotation=90;" vertex="1" parent="WenqukC4pVPus_8-eNgw-20">
           <mxGeometry width="120" height="60" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WenqukC4pVPus_8-eNgw-24" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
-          <mxGeometry x="295" y="30" width="30" height="80" as="geometry" />
+          <mxGeometry x="272.5" y="30" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WenqukC4pVPus_8-eNgw-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="WenqukC4pVPus_8-eNgw-21" target="WenqukC4pVPus_8-eNgw-24">
           <mxGeometry relative="1" as="geometry" />
@@ -91,23 +91,17 @@
         <mxCell id="WenqukC4pVPus_8-eNgw-29" value="Traffic Element Queries" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="210" y="-120.94000000000001" width="145" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="WenqukC4pVPus_8-eNgw-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WenqukC4pVPus_8-eNgw-31" target="WenqukC4pVPus_8-eNgw-68">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="WenqukC4pVPus_8-eNgw-31" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 0);&quot;&gt;Centerline Relationship&lt;/span&gt;&lt;/font&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="200" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="WenqukC4pVPus_8-eNgw-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WenqukC4pVPus_8-eNgw-33" target="WenqukC4pVPus_8-eNgw-53">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="320" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WenqukC4pVPus_8-eNgw-33" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 0);&quot;&gt;Centerline&amp;nbsp;&lt;br&gt;Traffic Element&amp;nbsp;&lt;br&gt;Relationship&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="325.00000000000006" y="51" width="120" height="60" as="geometry" />
+          <mxGeometry x="320.00000000000006" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WenqukC4pVPus_8-eNgw-34" value="&lt;font color=&quot;#d95000&quot; style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Centerline &lt;br&gt;Outputs&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=-1;hachureGap=8;fillStyle=cross-hatch;fillColor=#006600;sketch=1;fontColor=#ff9300;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="600" y="421.87" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="435.94" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WenqukC4pVPus_8-eNgw-35" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="470" y="-151.57" width="137" height="80" as="geometry" />
+          <mxGeometry x="451.5" y="-150.94" width="137" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WenqukC4pVPus_8-eNgw-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="WenqukC4pVPus_8-eNgw-35">
           <mxGeometry x="7" width="130" height="80" as="geometry" />
@@ -119,7 +113,7 @@
           <mxGeometry x="60" y="3" width="74" height="74" as="geometry" />
         </mxCell>
         <mxCell id="WenqukC4pVPus_8-eNgw-39" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="600" y="30" width="80" height="101" as="geometry" />
+          <mxGeometry x="480" y="-10.5" width="80" height="101" as="geometry" />
         </mxCell>
         <mxCell id="WenqukC4pVPus_8-eNgw-40" value="" style="group" vertex="1" connectable="0" parent="WenqukC4pVPus_8-eNgw-39">
           <mxGeometry width="80" height="81" as="geometry" />
@@ -185,7 +179,7 @@
           <mxGeometry y="81" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WenqukC4pVPus_8-eNgw-61" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="590" y="180" width="100" height="100" as="geometry" />
+          <mxGeometry x="470" y="140" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="WenqukC4pVPus_8-eNgw-62" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;container=0;" vertex="1" parent="WenqukC4pVPus_8-eNgw-61">
           <mxGeometry width="20" height="20" as="geometry" />
@@ -260,43 +254,34 @@
           <mxGeometry y="80" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WenqukC4pVPus_8-eNgw-86" value="Centerline Queries" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="220" y="625.9300000000001" width="145" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="WenqukC4pVPus_8-eNgw-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WenqukC4pVPus_8-eNgw-88" target="WenqukC4pVPus_8-eNgw-34">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="210" y="658.1500000000002" width="145" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WenqukC4pVPus_8-eNgw-88" value="Quad-Label Aware Post Process" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;fillColor=#d0cee2;strokeColor=#56517e;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="387.5" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WenqukC4pVPus_8-eNgw-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="WenqukC4pVPus_8-eNgw-90" target="WenqukC4pVPus_8-eNgw-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WenqukC4pVPus_8-eNgw-90" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 0);&quot;&gt;2D Traffic Element Head&lt;/span&gt;&lt;/font&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="-141.25" width="130" height="59.37" as="geometry" />
-        </mxCell>
-        <mxCell id="WenqukC4pVPus_8-eNgw-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WenqukC4pVPus_8-eNgw-92" target="WenqukC4pVPus_8-eNgw-95">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="315" y="-141.25" width="130" height="59.37" as="geometry" />
         </mxCell>
         <mxCell id="WenqukC4pVPus_8-eNgw-92" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 0);&quot;&gt;2D BEV &lt;br&gt;Mask Head&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="444" width="130" height="56.25" as="geometry" />
+          <mxGeometry x="295" y="456.87" width="130" height="56.25" as="geometry" />
         </mxCell>
         <mxCell id="WenqukC4pVPus_8-eNgw-93" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 0);&quot;&gt;Bezier Head&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;fillColor=#a0522d;strokeColor=#6D1F00;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="300" y="606.8600000000001" width="130" height="58.13" as="geometry" />
-        </mxCell>
-        <mxCell id="WenqukC4pVPus_8-eNgw-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WenqukC4pVPus_8-eNgw-95" target="WenqukC4pVPus_8-eNgw-88">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="295" y="639.0600000000002" width="130" height="58.13" as="geometry" />
         </mxCell>
         <mxCell id="WenqukC4pVPus_8-eNgw-95" value="Quad-label Masks" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="375" y="462.13" width="145" height="20" as="geometry" />
+          <mxGeometry x="370" y="460" width="145" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WenqukC4pVPus_8-eNgw-96" value="Bezier Representation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="455" y="625.95" width="145" height="20" as="geometry" />
+          <mxGeometry x="370" y="658.13" width="145" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WenqukC4pVPus_8-eNgw-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WenqukC4pVPus_8-eNgw-98" target="WenqukC4pVPus_8-eNgw-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WenqukC4pVPus_8-eNgw-98" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 0);&quot;&gt;Transformer&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="606.87" width="130" height="58.13" as="geometry" />
+          <mxGeometry x="142.5" y="639.07" width="130" height="58.13" as="geometry" />
         </mxCell>
         <mxCell id="WenqukC4pVPus_8-eNgw-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WenqukC4pVPus_8-eNgw-100" target="WenqukC4pVPus_8-eNgw-29">
           <mxGeometry relative="1" as="geometry" />
@@ -308,7 +293,7 @@
           <mxGeometry x="195" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WenqukC4pVPus_8-eNgw-102" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 0);&quot;&gt;View Transformation and BEV Feature Extraction&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;fillColor=#f0a30a;strokeColor=#BD7000;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="112.5" y="435.94" width="130" height="58.13" as="geometry" />
+          <mxGeometry x="112.5" y="455.93" width="130" height="58.13" as="geometry" />
         </mxCell>
         <mxCell id="WenqukC4pVPus_8-eNgw-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WenqukC4pVPus_8-eNgw-11" target="WenqukC4pVPus_8-eNgw-101">
           <mxGeometry relative="1" as="geometry" />
@@ -317,7 +302,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WenqukC4pVPus_8-eNgw-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=30;entryDy=50;entryPerimeter=0;" edge="1" parent="1" source="WenqukC4pVPus_8-eNgw-101" target="WenqukC4pVPus_8-eNgw-5">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="240" />
+              <mxPoint x="290" y="370" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="WenqukC4pVPus_8-eNgw-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=30;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WenqukC4pVPus_8-eNgw-2" target="WenqukC4pVPus_8-eNgw-102">
           <mxGeometry relative="1" as="geometry" />
